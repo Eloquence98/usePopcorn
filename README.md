@@ -12,6 +12,25 @@ Welcome to the React Movie Tracker App! This simple React application, developed
 - Watched List: Keep track of the movies you've watched along with their ratings.
 
 
-## Installation
+## Usage/Examples
 
-Clone the repository:
+1. Enter a movie title in the search bar and press Enter.
+2. Browse through the search results and click on a movie to view details.
+3. Rate the movie and click "Add to Watched" to add it to your watched list.
+4. Navigate to the "Watched" tab to view your watched movies along with their ratings.
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** [OMDB](https://www.omdbapi.com/) API for movies data
+
+
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
+
+
+#
+
+Happy movie tracking! 🎬
+
