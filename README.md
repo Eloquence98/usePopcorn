@@ -12,7 +12,7 @@ Welcome to the React Movie Tracker App! This simple React application, developed
 - Watched List: Keep track of the movies you've watched along with their ratings.
 
 
-## Usage/Examples
+## Usage
 
 1. Enter a movie title in the search bar and press Enter.
 2. Browse through the search results and click on a movie to view details.
