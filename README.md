@@ -20,7 +20,7 @@ Welcome to the React Movie Tracker App! This simple React application, developed
 4. Navigate to the "Watched" tab to view your watched movies along with their ratings.
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Vite
 
 **Server:** [OMDB](https://www.omdbapi.com/) API for movies data
 
